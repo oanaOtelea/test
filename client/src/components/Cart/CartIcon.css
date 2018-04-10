@@ -1,0 +1,20 @@
+#cart-btn {
+	border-radius: 0;
+	padding: 11px 60px;
+}
+
+#cart-btn #cart-icon {
+	font-size: 22px;
+}
+
+#cart-btn #cart-badge {
+	left: -2px;
+    background-color: transparent;
+    color: #333;
+    top: -15px;
+    padding: 5px 5px;
+}
+
+.nav .cart-icon a {
+	padding: 0;
+}

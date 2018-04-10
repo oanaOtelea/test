@@ -1,0 +1,7 @@
+#cart-btn #cart-badge {
+	left: -2px;
+    background-color: transparent;
+    color: #333;
+    top: -15px;
+    padding: 5px 5px;
+}

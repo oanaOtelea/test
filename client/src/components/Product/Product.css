@@ -1,0 +1,16 @@
+.prod-container {
+	text-align: center;
+	box-shadow: 0px 0px 15px 0px #D6D6D6;
+	padding: 20px;
+}
+
+.prod-container .prod-thumb, .prod-container .prod-title, .prod-container .prod-price {
+	margin-bottom: 10px;
+}
+
+.btn-atc {
+	border: none;
+    padding: 5px 35px;
+	background-color: #fc636b;
+	color: #fff;
+}
